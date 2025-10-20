@@ -3,7 +3,7 @@
  * Plugin Name: YT Auto Tag Generator
  * Plugin URI: https://github.com/krasenslavov/yt-auto-tag-generator
  * Description: Automatically suggests and adds tags based on post content analysis. Extracts frequent keywords and provides preview before saving.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires at least: 5.8
  * Requires PHP: 7.4
  * Author: Krasen Slavov
